@@ -3,7 +3,7 @@
 ## Pflichtkriterien
 
 - B01 Projektplanung
-  1. Die Planung des Projekts folgt einem schlüssigen und nachvollziehbaren Ablauf.
+  1. Die Planung des Projekts folgt einem schlüssigen und nachvollziehbaren Ablauf (z. B. chronologische Gliederung).
   2. Der Ablauf ist durch mindestens ein angewendetes Vorgehensinstrument (z. B. Kanban-Board, Scrum-Elemente, Retrospektive) sichtbar und korrekt dokumentiert.
   3. Die gewählte Methode wird mit mindestens zwei Vorteilen für das vorliegende Projekt korrekt begründet.
 
@@ -15,7 +15,7 @@
 
 - B03 Qualitätssicherung
   1. Es werden mindestens 5 messbare und sinnvolle Kriterien für die Qualitätssicherung definiert.
-  2. Die Qualitätssicherung wird zum richtigen Zeitpunkt mit den richtigen Testpersonen und Tools durchgeführt und fachlich begründet.
+  2. Die Qualitätssicherung wird zum richtigen Zeitpunkt mit passenden Testpersonen und Tools durchgeführt und fachlich begründet.
   3. Aus der Qualitätssicherung sind die nötigen Schritte abgeleitet und dokumentiert.
 
 - B04 Selbständiges Arbeiten
