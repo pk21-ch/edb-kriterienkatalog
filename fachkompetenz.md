@@ -4,47 +4,48 @@
 
 - A01 Bedürfniserhebung
   1. Das Vorhaben wurde systematisch analysiert. Die relevanten Informationen sind identifiziert und aufgeführt.
-  2. Mindestens drei relevante Stakeholder werden identifiziert und mit je mindestens 2 Argumenten begründet.
-  3. Die Anforderungen der Stakeholder (Kosten, Zeit, Qualität, Funktionen) werden mit einem strukturierten Vorgehen (Befragungstechniken, Erhebungen oder Modelle) validiert.
+  2. Mindestens drei relevante Anspruchsgruppen werden identifiziert und mit je mindestens zwei Argumenten begründet.
+  3. Die Anforderungen der Anspruchsgruppen (Kosten, Zeit, Qualität, Funktionen) werden mit einem strukturierten Vorgehen (Befragungstechniken, Erhebungen oder Modelle) validiert.
   4. Die Anforderungen sind nach ihrer Wichtigkeit und Dringlichkeit priorisiert.
 
-- A02 Ideenfindung und Visualisierung
-  1. Zur Findung der Lösung werden mindestens 2 Kreativitätstechniken eingesetzt (z. B. Brainstorming, Mindmapping), beschrieben und begründet.
-  2. Für mindestens zwei Ideen werden visuelle Skizzen oder Mockups erstellt (z. B. mit Figma, Whiteboard).
-  3. Zu jeder in K2 entwickelten Idee wird mit mindestens zwei Argumenten schriftlich erläutert, weshalb die jeweilige Lösung als innovativ gilt.
+- A02 Ideenfindung und Variantenentwicklung
+  1. Zur Findung der Lösung werden mindestens zwei Kreativitätstechniken (z. B. Brainstorming, Mindmapping) eingesetzt, beschrieben und begründet.
+  2. Für mindestens zwei Ideen werden vertiefende, visuelle Skizzen oder Mockups erstellt.
+  3. Zu jeder in Kriterium 2 entwickelten Idee wird mit mindestens zwei nachvollziehbaren Argumenten schriftlich erläutert, weshalb die jeweilige Lösung als innovativ gilt.
 
 - A03 Innovations- & Transferfähigkeit
   1. Es wird mindestens ein funktionaler Prototyp gebaut.
-  2. Der Prototyp wird getestet und systematisch verglichen (z. B. A/B-Test, Nutzertest).
-  3. Die Testresultate werden interpretiert. Mindestens zwei konkrete Verbesserungen werden abgeleitet.
-  4. Die Lösung sticht durch besondere Umsetzungsmethoden und/oder Eigenschaften hervor, welche die Zielgruppe nachweislich begeistern können.
+  2. Mehrere Varianten innerhalb eines Prototyps oder von mehreren Prototypen werden systematisch verglichen und getestet (z. B. A/B-Test, Nutzertest).
+  3. Die Testresultate werden ausgewertet. Mindestens zwei konkrete Verbesserungen werden abgeleitet.
+  4. Die Lösung sticht durch besondere Umsetzungsmethoden und/oder Eigenschaften hervor, die die Zielgruppe nachweislich begeistern können.
 
-- A04 Einsatz von KI
-  1. Der Einsatz von KI wird für die geplante Lösung auf höhere Effektivität oder höhere Effizienz geprüft.
-  2. Für den geplanten Einsatz werden mindestens zwei KI-Modelle geprüft und einander mit je zwei Vor- und zwei Nachteilen gegenübergestellt.
-  3. Die Ergebnisse wurden nachweislich objektiv geprüft.
+- A04 Einsatz von Assistenzsystemen (KI)
+  1. Es wurde geprüft und begründet, ob und wie Assistenzsysteme (z. B. generative Sprachmodelle) den Entwicklungsprozess, sowie die Lösung unterstützen können.
+  2. An zwei Stellen wird der Einsatz von Assistenzsystemen nachweislich mittels je zwei Vor- und Nachteilen begründet.
+  3. Der Einsatz von Assistenzsystemen erfolgt verantwortungsvoll und unter Berücksichtigung ethischer, rechtlicher und datenschutzrechtlicher Aspekte.
+  4. An einer Stelle werden Kosten-Nutzen-Überlegungen und eine Gefahrenanalyse zum Einsatz von Assistenzsystemen dokumentiert.
 
 - A05 Auswahl & Einsatz von Methoden
-  1. Die Auswahl geeigneter Methoden für Analyse, Konzeption und Umsetzung wird demonstriert (z. B. durch Gegenüberstellung von Modellen mit Vor-/Nachteilen).
+  1. Die Auswahl geeigneter Methoden für Analyse, Konzeption und Umsetzung wird demonstriert (z. B. durch Gegenüberstellung von Methoden mit Vor-/Nachteilen).
   2. Der zweckmässige und technisch einwandfreie Einsatz der gewählten Methoden wird praktisch demonstriert (z. B. Anwendung von Vorgehensmodellen, Datenerhebung).
   3. Die Methodenwahl ist nachvollziehbar und mit mindestens drei projektbezogenen Argumenten begründet.
 
 - A06 Inbetriebnahme
   1. Die Planung der Inbetriebnahme oder die Inbetriebnahme der Lösung umfasst mindestens drei definierte Meilensteine (z. B. Test, Schulung, Live-Schaltung).
   2. Mindestens drei Anwendungsfälle werden auf Basis der Anforderungen geprüft und die Tests werden systematisch dokumentiert (Testprotokoll mit Resultat).
-  3. Eine Übergabedokumentation mit Kontaktangaben, Zugriffs-Berechtigungen und den wichtigsten Informationen wird erstellt.
+  3. Eine Übergabedokumentation mit Kontaktangaben, Zugriffsberechtigungen und den wichtigsten Informationen wird erstellt.
 
 - A07 Qualität der Lösung
-  1. Die realisierte Lösung ist funktional, nachvollziehbar und bietet einen ausgewiesen messbaren Mehrwert für das Unternehmen und/oder die Stakeholder.
+  1. Die realisierte Lösung ist funktional, nachvollziehbar und bietet einen ausgewiesenen messbaren Mehrwert für das Unternehmen und/oder die Anspruchsgruppen.
   2. Die Erfüllung der ursprünglichen Projektziele und der festgelegten Anforderungen ist nachweislich gegeben. Abweichungen sind begründet und dokumentiert.
   3. Die Lösung kann ohne Korrekturen eingesetzt werden.
 
 ## Wahlkriterien
 
 - Kundenerlebnis
-  1. Es werden drei grundlegende Fragen zum Kundenerlebnis beantwortet (z. B. Wer, Was, Warum).
+  1. Es werden drei grundlegende Fragen zum Kundenerlebnis beantwortet (z. B. Wer, Was, Warum).
   2. Es wird eine Customer Journey mit mindestens vier Touchpoints erstellt.
-  3. Die Lösung bietet für die Zielgruppe mindestens einen mit 3 Argumenten gestützten Mehrwert und ist realistisch.
+  3. Die Lösung bietet für die Zielgruppe mindestens einen mit drei Argumenten gestützten Mehrwert und ist realistisch.
 
 - Erstellung Automatisierungskonzept
   1. Prozesse und Vorgänge zur Automatisierung und/oder Optimierung wurden identifiziert.
@@ -65,14 +66,14 @@
   4. Zwei Testgruppen werden gebrieft und eingesetzt. Die Feedbacks werden festgehalten, ausgewertet und allfällig notwendige Verbesserungen durchgeführt.
 
 - Erstellung Konzept
-  1. Das Konzept umfasst eine schriftlich verständlich formulierte Ausgangslage (mindestens 200 Wörter) und eine Zielsetzung mit mindestens 3 überprüfbaren Zielen.
-  2. Das Konzept weist mindestens 4 klar abgegrenzte Kapitel mit nummerierter Gliederung auf, wobei jedes Kapitel inhaltlich auf das vorhergehende aufbaut. Das Konzept ergibt ein stimmiges Gesamtbild.
+  1. Das Konzept umfasst eine schriftlich verständlich formulierte Ausgangslage (mindestens 200 Wörter) und eine Zielsetzung mit mindestens drei überprüfbaren Zielen.
+  2. Das Konzept weist mindestens vier klar abgegrenzte Kapitel mit nummerierter Gliederung auf, wobei jedes Kapitel inhaltlich auf das vorhergehende aufbaut. Das Konzept ergibt ein stimmiges Gesamtbild.
   3. Das Konzept ist realistisch und umsetzbar. Es berücksichtigt die vorhandenen Ressourcen und stellt sicher, dass die Ziele mit den zur Verfügung stehenden Mitteln erreicht werden können.
 
 - Optimierungsvorschläge und Präsentation
   1. Drei konkrete Empfehlungen werden aus der Analyse abgeleitet.
   2. Die Vorschläge werden in einer Präsentation mit visuellen Elementen dargestellt.
-  3. Die gestalterischen und funktionalen Möglichkeiten wurden im Rahmen der verfügbaren Ressourcen (Zeit, Hilfsmittel) gut genutzt.
+  3. Die gestalterischen und funktionalen Möglichkeiten werden im Rahmen der verfügbaren Ressourcen (Zeit, Hilfsmittel) gut genutzt.
 
 - Workshop vorbereiten und strukturieren
   1. Ziel, Teilnehmende, Zeit und Form sind definiert und dokumentiert.
@@ -99,14 +100,14 @@
   4. Es gibt Überlegungen für den Umgang mit schwierigen Gruppen oder unerwarteten Herausforderungen.
 
 - Meetings und Workshops planen und moderieren II
-  1. Ziel, Teilnehmende, Zeit und Form (z. B. online/hybrid) werden definiert und mit je 2 Argumenten begründet.
+  1. Ziel, Teilnehmende, Zeit und Form (z. B. online/hybrid) werden definiert und mit je zwei Argumenten begründet.
   2. Eine Agenda mit Zeitrahmen und Verantwortlichkeiten wird erstellt.
-  3. Die benötigte Infrastruktur (z. B. Raum, Technik) wird im Vorfeld getestet und bereitgestellt.
+  3. Die benötigte Infrastruktur (z. B. Raum, Technik) wird im Vorfeld getestet und bereitgestellt.
   4. Die Moderation erfolgt anhand einer Ablaufplanung mit Zeitmanagement.
 
 - Kontaktformulare (Technologie)
-  1. Es wurden Massnahmen zur missbräuchlichen Verwendung des Formulars getroffen.
-  2. Eingegebene Formulare beinhalten eine sinnvolle Validierung (z. B. von E-Mailadressen).
+  1. Es werden Massnahmen zur missbräuchlichen Verwendung des Formulars getroffen.
+  2. Eingegebene Formulare beinhalten eine sinnvolle Validierung (z. B. von E-Mail-Adressen).
   3. Fehlerhafte Eingaben werden in einer für den Nutzer verständlichen Form angezeigt.
   4. Der Benutzer erhält eine verlässliche Rückmeldung, dass das Formular übermittelt wurde.
 
@@ -148,9 +149,9 @@
   4. Die getroffene Toolwahl wird mit mindestens zwei Argumenten begründet.
 
 - Daten analysieren, identifizieren und validieren
-  1. Die relevanten Daten wurden nach einem systematischen Ansatz (Verfahren/Methoden) analysiert.
-  2. Die essenziellen Informationen wurden identifiziert.
-  3. Es wurden entsprechende Massnahmen ergriffen, um Datenfehler zu erkennen und die Validität der Daten sicherzustellen.
+  1. Die relevanten Daten werden nach einem systematischen Ansatz (Verfahren/Methoden) analysiert.
+  2. Die essenziellen Informationen werden identifiziert.
+  3. Es werden entsprechende Massnahmen ergriffen, um Datenfehler zu erkennen und die Validität der Daten sicherzustellen.
 
 - Datenerhebung
   1. Es wird ein Erhebungsplan mit Ziel, Methode und Format erstellt.
@@ -159,7 +160,7 @@
   4. Eine Qualitätsprüfung mit mindestens drei Faktoren (z. B. Vollständigkeit, Plausibilität) wird durchgeführt.
 
 - Datenanalyse und Visualisierung
-  1. Es wurden geeignete Darstellungsmethoden gewählt, begründet und eingesetzt.
-  2. Drei verschiedene Visualisierungstypen werden umgesetzt (z. B. Balken-, Linien-, Kreisdiagramm).
+  1. Es werden geeignete Darstellungsmethoden gewählt, begründet und eingesetzt.
+  2. Drei verschiedene Visualisierungstypen werden umgesetzt (z. B. Balken-, Linien-, Kreisdiagramm).
   3. Drei zentrale Erkenntnisse werden aus der Analyse abgeleitet.
   4. Die wichtigsten Aussagen werden in einem Fazit (50–150 Wörter) dokumentiert.
