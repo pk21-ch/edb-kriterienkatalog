@@ -26,12 +26,12 @@
   4. Eine korrekte und rechtlich gültig unterzeichnete Eigenständigkeitserklärung ist vorhanden.
 
 - C05 Visuelle Gestaltung
-  1. Die visuellen Elemente (Grafiken, Diagramme, Tabellen, Screenshots) sind verständlich, womit eine einfache Interpretation und Informationsaufnahme.
-  2. Die visuellen Elemente sind als Rastergrafiken gut lesbar, falls sie auf A4 ausgedruckt würden.
+  1. Die visuellen Elemente (Grafiken, Diagramme, Tabellen, Screenshots) sind verständlich und ermöglichen eine einfache Interpretation und Informationsaufnahme.
+  2. Die visuellen Elemente sind als Rastergrafiken gut lesbar, falls sie auf A4 ausgedruckt werden.
   3. Kontraste (Farben, Schriftgrössen) sind so gewählt, dass eine gute Lesbarkeit und Zugänglichkeit gewährleistet ist.
   4. Die Abbildungen weisen aussagekräftige Beschriftungen/Legenden auf, um den Inhalt zu erklären und zu kontextualisieren.
 
 - C06 Kommunikation & Nachvollziehbarkeit
-  1. Die Kommunikation mit Anspruchsgruppen und Auftraggebenden ist verständlich. Sie kann mittels Protokollen oder Anhängen nachvollzogen werden.
-  2. Feedback wird aktiv eingeholt (z. B. durch Feedbackbögen, Rückmeldungen im Team), sinnvoll berücksichtigt und dokumentiert.
-  3. Alle Fremdleistungen und Hilfsmittel (z. B. Software, Tools, KI-Modelle) sind korrekt zitiert und mit Quellenangaben versehen.
+  1. Die Kommunikation mit Anspruchsgruppen und Auftraggebenden ist verständlich und kann mittels Protokollen oder Anhängen nachvollzogen werden.
+  2. Feedback wird aktiv eingeholt (z. B. durch Feedbackbögen, Rückmeldungen im Team), sinnvoll berücksichtigt und dokumentiert.
+  3. Alle Fremdleistungen und Hilfsmittel (z. B. Software, Tools, KI-Modelle) sind korrekt zitiert und mit Quellenangaben versehen.
