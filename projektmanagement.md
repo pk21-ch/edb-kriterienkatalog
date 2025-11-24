@@ -18,10 +18,11 @@
   2. Die Qualitätssicherung wird zum richtigen Zeitpunkt mit passenden Testpersonen und Tools durchgeführt und fachlich begründet.
   3. Aus der Qualitätssicherung sind die nötigen Schritte abgeleitet und dokumentiert.
 
-- B04 Selbständiges Arbeiten
-  1. Ziele und Aufgaben werden eigenständig verfolgt.
-  2. Eine ausgeprägte Fähigkeit zur Problemlösung wird demonstriert. Hindernisse werden eigenständig überwunden und Fremdhilfe wird angemessen in Anspruch genommen.
-  3. Die Fähigkeit zur Selbstmotivation wird gezeigt und das Engagement ist hoch.
+- B04 Aufgabenverwaltung
+  1. Alle anstehenden Aufgaben sind zentral erfasst (z. B. Kanban-Board, To-Do-Liste) und für Dritte jederzeit einsehbar.
+  2. Grosse Aufgabenpakete sind in bewältigbare Teilaufgaben (z. B. < 1 Tag) heruntergebrochen und mit einer groben Zeitschätzung versehen.
+  3. Der Bearbeitungsstatus (z. B. "Offen", "In Arbeit", "Erledigt") wird zeitnah aktualisiert und spiegelt den tatsächlichen Projektfortschritt wider.
+  4. Die Aufgaben sind nach Dringlichkeit oder Abhängigkeiten priorisiert, und Blockaden werden aktiv markiert oder kommuniziert.
 
 - B05 Reflexion
   1. Erfolge und Misserfolge des Projekts oder der Lösung sind explizit erwähnt und kritisch hinterfragt.
@@ -32,3 +33,5 @@
   1. Es wird eine einfache Risikoanalyse mit mindestens drei Risiken mit Wahrscheinlichkeit, Ausmass und Korrekturmassnahmen erstellt.
   2. Risiken werden frühzeitig erkannt, periodisch überprüft und im Arbeitsjournal festgehalten.
   3. Bei Eintreten von Risiken oder Änderungen wird professionell darauf reagiert und Korrekturmassnahmen werden angewendet und erklärt.
+
+
